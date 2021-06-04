@@ -1,0 +1,56 @@
+Portal: Idetity Self Service
+https://idm.jioconnect.com/identity
+Username:55038970
+Pwd:Master@1234
+
+OTP URL SIT:
+http://10.135.19.162:3000/fetchOTP
+7021143366 / 7021150585
+benfi:6776771256 mpin:1234
+
+OTP URL PP:
+http://10.64.78.29:9000/mock-gateway/fetch?identifier=+917021971915
+7021971915 mpin 1357
+
+P2M details
+100001000217593
++916989797949
+
+100001000217632
++917382728462
+
+
+P2P details
+8689906641
+8826218006
+7977558623
+
+
+
+https://www.youtube.com/c/RavikanthReddy/playlists
+
+Collections:
+https://www.youtube.com/watch?v=B4WmfcjQ9QA&list=PLFGoYjJG_fqoDQHufg7XVk-yb2w6CNpgF
+https://github.com/appium/appium-desktop/releases/tag/v1.18.3
+
+
+
+ANDROID_HOME=C:\adt-bundle-windows-x86_64-20140702\sdk
+Path=C:\adt-bundle-windows-x86_64-20140702\sdk\platform-tools
+C:\adt-bundle-windows-x86_64-20140702\sdk\tools
+
+JAVA_HOME=C:\Program Files\Java\jdk1.8.0_251
+Path=%JAVA_HOME%\bin
+
+MAVEN_HOME=C:\apache-maven-3.6.3-bin\apache-maven-3.6.3
+Path=%MAVEN_HOME%\bin
+
+C:\Program Files\nodejs\
+
+Galaxy A70
+Android version 10
+Device = RZ8M51CE05A
+
+======================================================
+
+
